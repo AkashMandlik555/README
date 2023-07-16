@@ -1,9 +1,8 @@
 # README
-Hi 👋, I'm Akash Mandlik
+# Hi 👋, I'm Akash Mandlik
 Connect with me:
-AkashMandlik555
+https://github.com/AkashMandlik555/
 
-AkashMandlik555
 🔭 I’m currently working on OpenCv projects
 
 🌱 I’m currently learning Data Science,Web Dev
@@ -12,7 +11,7 @@ AkashMandlik555
 
 💬 Ask me about DataScience,Ml,Dl,Web dev
 
-📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing])
+📄 Know about my experiences ([https://drive.google.com/file/d/1wx6O3KhpWdPFg-8vfK19Uk6tY3sHfjO9/view?usp=drive_link])
 
 
 Languages and Tools:
